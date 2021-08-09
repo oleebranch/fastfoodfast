@@ -12,5 +12,5 @@ Fast Food Fast is a food  delivery service application for a restaurant.
 - A user is able to see a history of ordered food.
 
 ## Stack
-Bootstrao and JavaScript.
+Bootstrap and JavaScript.
 
