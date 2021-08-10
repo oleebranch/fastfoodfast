@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: cornflowerblue;
+}
+
+.row {
+    background: cornsilk;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px plum;
+}
+
+img {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn1 {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background-color: plum;
+}
