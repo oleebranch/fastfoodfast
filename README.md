@@ -14,6 +14,5 @@ Fast Food Fast is a food  delivery service application for a restaurant.
 ## Stack
 Bootstrap and JavaScript.
 
-##
-[Github Page ]https://oleebranch.github.io/fastfoodfast/)
-
+## Project Github Page
+[Fast Food Fast](https://oleebranch.github.io/fastfoodfast)
